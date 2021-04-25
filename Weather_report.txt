@@ -1,0 +1,23 @@
+----------udumalpet-----------
+-----------chennai------------
+Temperature: 307.15
+Humidity: 59
+Pressure: 1006
+Weather Report: few clouds-----------pollachi-----------
+Temperature: 307.15
+Humidity: 49
+Pressure: 1008
+Weather Report: scattered clouds------------salem-------------
+Temperature: 307.92
+Humidity: 36
+Pressure: 1006
+Weather Report: broken clouds-----------tirppur------------
+-----------tirupur------------
+Temperature: 307.15
+Humidity: 49
+Pressure: 1008
+Weather Report: scattered clouds------------kerala------------
+Temperature: 306.15
+Humidity: 62
+Pressure: 1006
+Weather Report: haze
